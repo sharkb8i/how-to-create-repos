@@ -69,3 +69,8 @@ Little guide for create git repos.
    $ git commit -m "commit message"
    ```
 <b>7.</b> Finished!
+
+
+
+<b>Good Reference:</b><br/>
+[Atlassian Bitbucket](https://www.atlassian.com/br/git/tutorials/what-is-version-control)
