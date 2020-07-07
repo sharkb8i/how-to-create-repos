@@ -1,7 +1,7 @@
 # How to create git repos
-Little guide for create git repos.
+Little guide for create git repos using the <b>cmd</b>.
 
-### From Scratch (cmd)
+### From Scratch
 <b>1.</b> Create a directory to the project <br/>
 
    ```sh
@@ -68,9 +68,11 @@ Little guide for create git repos.
    ```sh
    $ git commit -m "commit message"
    ```
+   
 <b>7.</b> Finished!
 
-
+### From Existing Project
+<b>1.</b> Follow the same steps as "From Scratch" from Step 2.<br/>
 
 <b>Good Reference:</b><br/>
 [Atlassian Bitbucket](https://www.atlassian.com/br/git/tutorials/what-is-version-control)
