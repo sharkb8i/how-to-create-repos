@@ -75,7 +75,7 @@ Little guide for create git repos using the <b>cmd</b>.
 <b>1.</b> Follow the same steps as "From Scratch" from Step 2.<br/>
 
 ### Connect with GitHub (remote repo)
-<b>1.</b> Create a repo in the github website
+<b>1.</b> Create a repo in the github website <br/>
 <b>Example name:</b> new-repo
 
 <b>2.</b> Copy the SSH link from created repo <br/>
