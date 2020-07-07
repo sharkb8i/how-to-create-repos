@@ -1,7 +1,7 @@
 # How to create git repos
 Little guide for create git repos using the <b>cmd</b>.
 
-### From Scratch
+### From Scratch (local repo)
 <b>1.</b> Create a directory to the project <br/>
 
    ```sh
@@ -71,8 +71,22 @@ Little guide for create git repos using the <b>cmd</b>.
    
 <b>7.</b> Finished!
 
-### From Existing Project
+### From Existing Project (local repo)
 <b>1.</b> Follow the same steps as "From Scratch" from Step 2.<br/>
+
+### Connect with GitHub (remote repo)
+<b>1.</b> Create a repo in the github website
+<b>Example name:</b> new-repo
+
+<b>2.</b> Copy the SSH link from created repo <br/>
+<b>Example:</b> https://github.com/username/new-repo.git
+
+<b>3.</b> Go to the cmd and push the repo
+
+   ```sh
+   $ git remote add origin https://github.com/username/new-repo.git
+   $ git push -u origin master
+   ```
 
 ### Good Reference
 [Atlassian Bitbucket](https://www.atlassian.com/br/git/tutorials/what-is-version-control)
