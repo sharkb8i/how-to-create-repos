@@ -74,5 +74,5 @@ Little guide for create git repos using the <b>cmd</b>.
 ### From Existing Project
 <b>1.</b> Follow the same steps as "From Scratch" from Step 2.<br/>
 
-<b>Good Reference:</b><br/>
+### Good Reference
 [Atlassian Bitbucket](https://www.atlassian.com/br/git/tutorials/what-is-version-control)
