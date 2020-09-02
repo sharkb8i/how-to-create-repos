@@ -55,7 +55,7 @@ Little guide for create git repos using the <b>cmd</b>.
    
    <i>To add all the files...</i><br/>
    ```sh
-   $ git add -a
+   $ git add .
    ```
    
 <b>6.</b> Commit the changes
